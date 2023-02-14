@@ -1,2 +1,2 @@
 # SEactivity5
-Continuous integration into activity
+Continuous integration intro activity
